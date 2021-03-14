@@ -1,5 +1,5 @@
 Arguments: 
-  /usr/bin/node /usr/local/bin/yarnpkg add camelize
+  /usr/bin/node /usr/local/bin/yarnpkg add @react-navigation/stack
 
 PATH: 
   /home/mbr/anaconda3/condabin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
@@ -14,7 +14,7 @@ Platform:
   linux x64
 
 Trace: 
-  Error: EACCES: permission denied, unlink '/home/mbr/Skrivebord/react-native-projects/MealsToGo/node_modules/@babel/core/node_modules/semver/CHANGELOG.md'
+  Error: EACCES: permission denied, mkdir '/home/mbr/Skrivebord/react-native-projects/MealsToGo/node_modules/@react-navigation/stack'
 
 npm manifest: 
   {
@@ -34,6 +34,7 @@ npm manifest:
       "@react-native-community/masked-view": "0.1.10",
       "@react-navigation/bottom-tabs": "^5.11.8",
       "@react-navigation/native": "^5.9.3",
+      "camelize": "^1.0.0",
       "eslint": "^7.21.0",
       "expo": "~40.0.0",
       "expo-font": "~8.4.0",
