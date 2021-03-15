@@ -40,6 +40,7 @@ export const MapScreen = () => {
         }}
       >
         {restaurants.map((restaurant) => {
+          console.log(restaurant);
           return (
             <MapView.Marker
               key={restaurant.name}
