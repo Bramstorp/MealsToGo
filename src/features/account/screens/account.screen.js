@@ -1,11 +1,7 @@
 import React from "react";
 
-import { AccountBackground, AccountCover } from "../components/account.styles";
+import { AccountBackground } from "../components/account.styles";
 
 export const AccountScreen = () => {
-  return (
-    <AccountBackground>
-      <AccountCover />
-    </AccountBackground>
-  );
+  return <AccountBackground />;
 };
