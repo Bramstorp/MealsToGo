@@ -38,6 +38,10 @@ https://docs.expo.io/guides/using-firebase/
 
 add your firebase configs in app.js under the const firebaseConfig
 
-# Project commands
+# Available Scripts
 
+In the project directory, you can run:
+### `Expo Start`
+
+Runs the app in the development mode and start the expo.
 
