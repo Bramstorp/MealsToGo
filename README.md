@@ -32,4 +32,8 @@ Basic app that shows local restaurants with information
 
 -Screen Navigations
 
-#
+# Setup Firebase
+
+https://docs.expo.io/guides/using-firebase/
+
+add your firebase configs in app.js under the const firebaseConfig
