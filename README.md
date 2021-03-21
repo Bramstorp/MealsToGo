@@ -40,14 +40,28 @@ add your firebase configs in app.js under the const firebaseConfig
 
 # Setup Expo
 
-remeber to create a account on expo and download the expo app on the device u wanna test the project on
+Remeber to create a account on expo and download the expo app on the device u wanna test the project on
 
 https://docs.expo.io/
 
 # Available Scripts
 
 In the project directory, you can run:
-### `Expo Start`
+### `expo start`
 
-Runs the app in the development mode and start the expo.
+Runs the app in the development mode and start the expo system in localhost.
+
+### `expo start --android`
+
+Runs the app in the development mode and start the expo system in localhost but only using android.
+
+### `expo start --ios`
+
+Runs the app in the development mode and start the expo system in localhost but only using ios.
+
+### `expo start --web`
+
+Runs the app in the development mode and start the expo system in localhost and shows the app web based.
+
+
 
