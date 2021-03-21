@@ -63,5 +63,11 @@ Runs the app in the development mode and start the expo system in localhost but 
 
 Runs the app in the development mode and start the expo system in localhost and shows the app web based.
 
+### `expo publish`
 
+This will publish the project in your expo account under the projects
+
+### `yarn lint`
+
+checks for eslint error and warnings
 
