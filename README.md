@@ -38,6 +38,12 @@ https://docs.expo.io/guides/using-firebase/
 
 add your firebase configs in app.js under the const firebaseConfig
 
+# Setup Expo
+
+remeber to create a account on expo and download the expo app on the device u wanna test the project on
+
+https://docs.expo.io/
+
 # Available Scripts
 
 In the project directory, you can run:
