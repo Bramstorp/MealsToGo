@@ -13,3 +13,13 @@ Basic app that shows local restaurants with information
 -Basic Account screen with auth using firebase
 
 -Register Screen + Login Screen
+
+-Restaurants list 
+
+-Restaurants add to favourites
+
+-Restaurants detail modal
+
+-Map of restaurants
+
+-basic accounts settings
