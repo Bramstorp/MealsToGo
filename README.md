@@ -23,3 +23,13 @@ Basic app that shows local restaurants with information
 -Map of restaurants
 
 -basic accounts settings
+
+-Service for each component/screen with mock data
+
+# Infrastructure
+
+-Custome Theme context
+
+-Screen Navigations
+
+#
